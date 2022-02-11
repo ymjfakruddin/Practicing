@@ -7,6 +7,7 @@ class ForEach
 		{
 
 			System.out.println(i);
+			System.out.println("It is for each loop");
 		}
 	}
 }
