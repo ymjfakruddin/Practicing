@@ -58,6 +58,21 @@ class Methods
 	--Method calls are implemented through a stack---
 	1)class loader-method area --- heap area --- stack area!!!!!!!
 	**/
+
+
+//Blocks
+//static and instance or non static blocks
+//When ever java program executes blocks will eexcute first  after that rest of the program will execute
+static 
+	{
+      System.out.println("It is a Static Block");
+	  int a = 1000;
+	  System.out.println(a);
+	}
+	{
+		System.out.println("It is a non-static Block");
+	}
+
 }
 
 	
