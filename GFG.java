@@ -18,3 +18,8 @@ class GFG
 
      }
 }
+//wHEN WE TRY THIS PROGRAM TO EXECUTE IT WILL THROUGH AN COMPILE TIME ERROR 
+//A:\>javac GFG.java
+//Note: GFG.java uses or overrides a deprecated API.
+//Note: Recompile with -Xlint:deprecation for details.
+//BECOZ IN JAVA OBJECT CAN'T PASS BECAUSE OF POINTERS  CONCEPT NOT SUPPORTED IN JAVA AND iT WILL NOT ADDRESS THE LOCATION  OF THE MEMORY
