@@ -1,3 +1,7 @@
+/*Encapsulation means wrapping up the data into the single unit -data hiding in real time it's capsule*/
+//Encapsulation  -- protective sheild to the data 
+
+
 import java.util.Scanner;
 class   Encaps
 {
