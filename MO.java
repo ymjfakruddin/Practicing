@@ -1,5 +1,10 @@
 class  MO
 {
+	/*
+Can We Declare An Overloaded Method As Static And Another One As Non-Static?
+Yes, we can declare an overloaded method as static and another one as non-static.
+
+*/
 	public static void main(String[] args) 
 	{
 		MO m = new MO();
