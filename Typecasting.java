@@ -3,10 +3,12 @@ class Typecasting
 {
 	public static void main(String[] args) 
 	{
-		A a1 = new B();
+		A a1 = new B();//Up casting
 		System.out.println(a1.a);
 		a1.m1();
 		//B b1 = (B)new A();System.out.println(b1.a);
+		B b1 = (B)a1;// Down casting 
+		System.out.println(b1.a);
 	}
 }
 class A 
@@ -34,7 +36,8 @@ Typecasting --class upcasting -implicitly
 down casting - explicitly
 
 
-
+When ever we are focusing on type casting method and data members exection process is totally different 
+please check the OUPUT to "UNDERSTAND"
 
 
 
